@@ -1,19 +1,25 @@
 ![Watch the video](./assets/Full-stack.gif)
 ===============================
 
-* 🌐 Full-Stack Developer
+<h1>🌐 Full-Stack Developer</h1>
+
 --------------------
-* 🌍  Vivo en Buenos Aires, Argentina.
-* 🙌  Actualmente estoy estudiando TypeScript
-* ✉️  Puedes contactarme por vía ✉[nunyypin@gmail.com](mailto:nunyypin@gmail.com)
-* 💆‍♀️  Mi hobbie es la danza, mi forma de desconectar es bailando.
+<ul>
+    <li>🌍  Vivo en Buenos Aires, Argentina.</li>
+    <li>🙌  Actualmente estoy estudiando TypeScript.</li>
+    <li>🌍  ✉️  Puedes contactarme por vía ✉[nunyypin@gmail.com](mailto:nunyypin@gmail.com)</li>
+    <li>💆‍♀️  Mi hobbie es la danza, mi forma de desconectar es bailando.</li>
+</ul>
+<br></br>
 
-Soy desarrolladora web full stack que busca incorporar conocimientos nuevos día a día. Soy una entusiasta del Frontend pero tambien puedo trabajar como backend.
+<h4>Soy desarrolladora web full stack que busca incorporar conocimientos nuevos día a día. Soy una entusiasta del Frontend pero tambien puedo trabajar como backend.</h4>
+<br></br>
 
-👩‍💻 Dispuesta a aprender nuevas tecnologías, frameworks y metodologías de trabajo. Flexible y autodidacta, sabiendo que una de las habilidades más importantes es la capacidad de tener una gran y efectiva comunicación.
+<h4>👩‍💻 Dispuesta a aprender nuevas tecnologías, frameworks y metodologías de trabajo. Flexible y autodidacta, sabiendo que una de las habilidades más importantes es la capacidad de tener una gran y efectiva comunicación.</h4>
 
 Actualmente, mis conocimientos me permiten desarrollar y trabajar en las siguientes tecnologías.
 
+<br></br>
 ### Skills:
 
 <p>
