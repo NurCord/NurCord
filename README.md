@@ -19,7 +19,6 @@ Actualmente, mis conocimientos me permiten desarrollar y trabajar en las siguien
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src ="http://3con14.biz/code/_data/js/intro/js-logo.png" width="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" width="50" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png" width="50" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" /></a>
 <a href="https://sequelize.org" target="_blank" rel="noreferrer"><img src="https://github.com/sequelize/sequelize/blob/main/logo.svg" width="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png" width="50" /></a>
