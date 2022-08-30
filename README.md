@@ -7,7 +7,7 @@
 <ul>
     <li>🌍  Vivo en Buenos Aires, Argentina.</li>
     <li>🙌  Actualmente estoy estudiando TypeScript.</li>
-    <li>🌍  ✉️  Puedes contactarme por vía ✉[nunyypin@gmail.com](mailto:nunyypin@gmail.com)</li>
+    <li>🌍  ✉️  Puedes contactarme por vía <a href='mailto:nunyypin@gmail.com'>✉nunyypin@gmail.com</a></li>
     <li>💆‍♀️  Mi hobbie es la danza, mi forma de desconectar es bailando.</li>
 </ul>
 <br></br>
