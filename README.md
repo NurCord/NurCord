@@ -1,11 +1,11 @@
-[Hola a todos 👋 soy Nuria Cordoba]()
+![Watch the video](./assets/Full-stack.gif)
 ===============================
 
 * 🌐 Full-Stack Developer
 --------------------
 * 🌍  Vivo en Buenos Aires, Argentina.
 * 🙌  Actualmente estoy estudiando TypeScript
-* ✉️  Puedes contactarme por vía ✉[mail](mailto:nelnico008@gmail.com)
+* ✉️  Puedes contactarme por vía ✉[nunyypin@gmail.com](mailto:nunyypin@gmail.com)
 * 💆‍♀️  Mi hobbie es la danza, mi forma de desconectar es bailando.
 
 Soy desarrolladora web full stack que busca incorporar conocimientos nuevos día a día. Soy una entusiasta del Frontend pero tambien puedo trabajar como backend.
