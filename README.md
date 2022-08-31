@@ -1,26 +1,24 @@
 ![Watch the video](./assets/Full-stack.gif)
 ===============================
 
-<h1>🌐 Full-Stack Developer</h1>
+# 🌐 Full-Stack Developer</h1>
 
 --------------------
-<ul>
-    <li>🌍  Vivo en Buenos Aires, Argentina.</li>
-    <li>🙌  Actualmente estoy estudiando TypeScript.</li>
-    <li>🌍  ✉️  Puedes contactarme por vía mail: <a href='mailto:nunyypin@gmail.com'>✉nunyypin@gmail.com</a></li>
-    <li>💆‍♀️  Mi hobbie es la danza, mi forma de desconectar es bailando.</li>
-</ul>
-<br></br>
 
-<h4>Soy desarrolladora web full stack que busca incorporar conocimientos nuevos día a día. Soy una entusiasta del Frontend pero tambien puedo trabajar como backend.</h4>
-<br></br>
 
-<h4>👩‍💻 Dispuesta a aprender nuevas tecnologías, frameworks y metodologías de trabajo. Flexible y autodidacta, sabiendo que una de las habilidades más importantes es la capacidad de tener una gran y efectiva comunicación.</h4>
+- 🌍  Vivo en Buenos Aires, Argentina.
+- 🙌  Actualmente estoy estudiando TypeScript.
+- ✉️  Puedes contactarme por vía mail: [nunyypin@gmail.com]('mailto:nunyypin@gmail.com')
+- 💆‍♀️  Mi hobbie es la danza, mi forma de desconectar es bailando.
+
+
+Soy desarrolladora web full stack que busca incorporar conocimientos nuevos día a día. Soy una entusiasta del Frontend pero tambien puedo trabajar como backend.
+
+👩‍💻 Dispuesta a aprender nuevas tecnologías, frameworks y metodologías de trabajo. Flexible y autodidacta, sabiendo que una de las habilidades más importantes es la capacidad de tener una gran y efectiva comunicación.
 
 Actualmente, mis conocimientos me permiten desarrollar y trabajar en las siguientes tecnologías.
 
-<br></br>
-### Skills:
+### __Skills:__
 
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src ="http://3con14.biz/code/_data/js/intro/js-logo.png" width="50" /></a>
@@ -36,7 +34,7 @@ Actualmente, mis conocimientos me permiten desarrollar y trabajar en las siguien
 <a href="http://redux.js.org" target="_blank" rel="noreferrer"><img src="https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png" width="50" /></a>
 </p>
 
-### Socials
+### __Socials:__
 
 <p>
 <a href="https://github.com/NurCord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="50" height="50" /></a>
